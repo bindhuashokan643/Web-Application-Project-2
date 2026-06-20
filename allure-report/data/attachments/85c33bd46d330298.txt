@@ -1,0 +1,4 @@
+Username entered
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/requestPasswordResetCode
+Reset button clicked
+Forgot Password Request Submitted Successfully

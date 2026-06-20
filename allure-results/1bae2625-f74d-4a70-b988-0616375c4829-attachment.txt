@@ -1,0 +1,9 @@
+Admin menu is visible
+PIM menu is visible
+Leave menu is visible
+Time menu is visible
+Recruitment menu is visible
+My Info menu is visible
+Performance menu is visible
+Dashboard menu is visible
+All menu items are visible and functional

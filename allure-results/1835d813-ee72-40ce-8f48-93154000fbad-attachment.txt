@@ -1,0 +1,45 @@
+Login Successful
+
+===== MY INFO MENU VALIDATION =====
+
+Checking : Personal Details
+Personal Details Found = 16
+Personal Details is Present
+
+Checking : Contact Details
+Contact Details Found = 13
+Contact Details is Present
+
+Checking : Emergency Contacts
+Emergency Contacts Found = 13
+Emergency Contacts is Present
+
+Checking : Dependents
+Dependents Found = 13
+Dependents is Present
+
+Checking : Immigration
+Immigration Found = 13
+Immigration is Present
+
+Checking : Job
+Job Found = 13
+Job is Present
+
+Checking : Salary
+Salary Found = 13
+Salary is Present
+
+Checking : Report-to
+Report-to Found = 13
+Report-to is Present
+
+Checking : Qualifications
+Qualifications Found = 13
+Qualifications is Present
+
+Checking : Memberships
+Memberships Found = 13
+Memberships is Present
+
+All My Info Menu Items Validated Successfully

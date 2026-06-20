@@ -1,0 +1,8 @@
+After Login URL = https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+Page Title = OrangeHRM
+Step 1: Click Admin
+Step 2: Click Add
+Step 3: Waiting for Add User page
+Step 4: Add User page opened
+Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser
+New user login successful
